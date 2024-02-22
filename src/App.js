@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 //Dark Mode Addition  
-//Seeing if Darkmode
+//Seeing if Darkmode is enabled or not
 function App() {
   return (
     <div className="App">
