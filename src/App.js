@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-//Dark 
+//Dark Mode Addition  
 function App() {
   return (
     <div className="App">
